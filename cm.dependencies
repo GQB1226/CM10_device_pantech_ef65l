@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "android_device_pantech_msm8660-common",
+    "target_path": "device/pantech/msm8660-common"
+  },
+  {
+    "repository": "android_kernel_pantech_ef65l",
+    "target_path": "kernel/pantech/ef65l"
+  }
+]
+

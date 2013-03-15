@@ -1,0 +1,9 @@
+# Add device specific blobs here
+# Wi-Fi
+etc/wifi/nv_bcmdhd.txt
+etc/wifi/nvram_murata_B2_EF65L.txt
+
+# NFC
+lib/hw/nfc.default.so
+vendor/firmware/libpn544_fw.so
+
